@@ -5,7 +5,7 @@ Additionally, I have included a selection of input images and their correspondin
 # Overview
 This Python script, named `image_segmentation.py` that utilizes the FastSAM model for image segmentation and the CLIP model for image embedding generation. It allows users to specify a scene and a text prompt for segmentation and subsequently adjust the position of the segmented object within the image.
 
-__This README is crafted to explain the features and usage to recruiters at Avataar.Thank you for reviewing my assignment—hope you find it interesting!__
+__This README is crafted to explain the features and usage to recruiters at Avataar. Thank you for reviewing my assignment—hope you find it interesting!__
 
 # Features
 * __Image Upload:__ Easily select an image from your local filesystem using a GUI prompt.
