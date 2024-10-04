@@ -1,5 +1,7 @@
 # FastSAM_ObjectManipulator
+For the best experience, it's recommended to run the provided Jupyter notebook (__Avataar_Assignment_H3.ipynb__) in Google Colab. This environment ensures seamless connectivity to the necessary libraries and resources, allowing for optimal performance during image processing tasks. By utilizing Colab, you can easily upload your own images, execute the code, and visualize the results without any installation hassles.
 
+Additionally, I have included a selection of input images and their corresponding generated output images to illustrate the capabilities of the tool.
 # Overview
 This Python script, named `image_segmentation.py` that utilizes the FastSAM model for image segmentation and the CLIP model for image embedding generation. It allows users to specify a scene and a text prompt for segmentation and subsequently adjust the position of the segmented object within the image.
 
