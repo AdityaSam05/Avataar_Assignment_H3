@@ -52,7 +52,7 @@ python image_segmentation.py --image ./example.jpg --class laptop --output ./gen
 ## Task 2: Shifting the Segmented Object
 To shift the segmented object in the image, use:
 ```bash
-python image_segmentation.py --image ./example.jpg --class shelf --x 80 --y 0
+python image_segmentation.py --x 80 --y 0
 ```
 ### Arguments:
 `--x`: Number of pixels to shift horizontally (positive for right, negative for left).\
