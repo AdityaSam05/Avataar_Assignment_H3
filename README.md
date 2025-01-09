@@ -63,10 +63,3 @@ python image_segmentation.py --x 80 --y 0
 # Notes
   * Ensure that the FastSAM model file (``FastSAM-s.pt``) is in the same directory as the script or adjust the path accordingly.
   * Adjust the parameters according to your needs to achieve the desired results.
-
-# Why You Should Consider Me for a Position at Avataar 
-I’m truly excited about the opportunity to join __Avataar__! Developing the __FastSAM_ObjectManipulator__ has deepened my understanding of advanced image processing techniques and machine learning models. This project was a hands-on experience that taught me not only technical skills but also resilience in overcoming challenges, thanks to resources like community forums and mentorship.
-
-I bring a strong blend of creativity and analytical thinking, which I believe aligns well with Avataar’s innovative spirit. I’m passionate about crafting solutions that enhance user experiences, and I’m eager to contribute my skills to your team.
-
-Let’s collaborate to push the boundaries of AI and create impactful solutions together!
